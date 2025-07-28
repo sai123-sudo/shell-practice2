@@ -7,4 +7,6 @@ then
     echo "ERROR: : Please run this with root access"
 else 
     echo "You are running with root access"
-    fi    
+fi
+
+dnf install mysql -y
