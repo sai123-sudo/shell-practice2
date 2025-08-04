@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 GREETING="Hello, Good Morning"
